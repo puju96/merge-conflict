@@ -1,2 +1,2 @@
 var num =50;
-var app="hello world 1" 
+var app="hello everyone" 
